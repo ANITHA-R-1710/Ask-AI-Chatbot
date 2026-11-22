@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is Python?",
+    "answer": "Python is a high-level, interpreted, general-purpose programming language. It is popular because of its simple syntax and wide range of applications, including AI, Machine Learning, Data Science and web development."
+  },
+  {
+    "question": "What are the features of Python?",
+    "answer": "Important features of Python include simple syntax, interpreted execution, object-oriented programming, portability, dynamic typing, open-source availability and a large collection of libraries."
+  },
+  {
+    "question": "What are Python data types?",
+    "answer": "Python has several built-in data types: int for integers, float for decimal values, str for text, bool for True or False, list, tuple, set and dict for collections."
+  },
+  {
+    "question": "What is a list in Python?",
+    "answer": "A list is an ordered and mutable collection in Python. It allows duplicate values and can store different data types. Example: numbers = [10, 20, 30]."
+  },
+  {
+    "question": "What is a tuple in Python?",
+    "answer": "A tuple is an ordered and immutable collection in Python. Once created, its elements cannot be changed. Example: values = (10, 20, 30)."
+  },
+  {
+    "question": "What is a dictionary in Python?",
+    "answer": "A dictionary is a collection of key-value pairs. It is mutable and uses keys to access values. Example: student = {'name': 'Anitha', 'age': 20}."
+  },
+  {
+    "question": "What is a function in Python?",
+    "answer": "A function is a reusable block of code that performs a specific task. In Python, functions are defined using the def keyword."
+  },
+  {
+    "question": "What is OOP?",
+    "answer": "Object-Oriented Programming is a programming approach based on classes and objects. Its four main principles are encapsulation, inheritance, polymorphism and abstraction."
+  },
+  {
+    "question": "What is Java?",
+    "answer": "Java is a high-level, object-oriented programming language. It is platform-independent because Java programs run on the Java Virtual Machine (JVM)."
+  },
+  {
+    "question": "What is a class in Java?",
+    "answer": "A class in Java is a blueprint for creating objects. It contains variables and methods that describe the properties and behavior of objects."
+  },
+  {
+    "question": "What is inheritance?",
+    "answer": "Inheritance is an OOP concept in which one class acquires the properties and methods of another class. It promotes code reusability."
+  },
+  {
+    "question": "What is Artificial Intelligence?",
+    "answer": "Artificial Intelligence (AI) is a branch of computer science that enables machines to perform tasks that normally require human intelligence, such as learning, reasoning, problem-solving and decision-making."
+  },
+  {
+    "question": "What are the applications of AI?",
+    "answer": "AI is used in healthcare, education, banking, robotics, autonomous vehicles, recommendation systems, virtual assistants, cybersecurity and natural language processing."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning (ML) is a subset of Artificial Intelligence that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed for every task."
+  },
+  {
+    "question": "What are the types of Machine Learning?",
+    "answer": "The main types of Machine Learning are supervised learning, unsupervised learning, semi-supervised learning and reinforcement learning."
+  },
+  {
+    "question": "What is supervised learning?",
+    "answer": "Supervised learning is a type of Machine Learning in which a model is trained using labelled data. Examples include classification and regression."
+  },
+  {
+    "question": "What is unsupervised learning?",
+    "answer": "Unsupervised learning is a type of Machine Learning in which a model discovers patterns from unlabelled data. Clustering is a common example."
+  },
+  {
+    "question": "What is deep learning?",
+    "answer": "Deep Learning is a subset of Machine Learning that uses artificial neural networks with multiple layers to learn complex patterns from large amounts of data."
+  },
+  {
+    "question": "What is Data Science?",
+    "answer": "Data Science is an interdisciplinary field that uses statistics, programming, mathematics and domain knowledge to extract useful insights from structured and unstructured data."
+  },
+  {
+    "question": "What is data analytics?",
+    "answer": "Data Analytics is the process of examining, cleaning and transforming data to discover useful information, identify patterns and support decision-making."
+  },
+  {
+    "question": "What is NLP?",
+    "answer": "Natural Language Processing (NLP) is a branch of AI that enables computers to understand, interpret and generate human language. Applications include chatbots, translation and sentiment analysis."
+  },
+  {
+    "question": "What is a database?",
+    "answer": "A database is an organized collection of data that can be stored, accessed, managed and updated efficiently."
+  },
+  {
+    "question": "What is DBMS?",
+    "answer": "A Database Management System (DBMS) is software used to create, store, organize, retrieve and manage data in databases. Examples include MySQL, Oracle and PostgreSQL."
+  },
+  {
+    "question": "What is SQL?",
+    "answer": "SQL stands for Structured Query Language. It is used to create, retrieve, update and delete data in relational databases."
+  },
+  {
+    "question": "What is a primary key?",
+    "answer": "A primary key is a column or combination of columns that uniquely identifies each record in a database table. It cannot contain duplicate or NULL values."
+  },
+  {
+    "question": "What is an operating system?",
+    "answer": "An operating system is system software that manages computer hardware and software resources. Examples include Windows, Linux, macOS and Android."
+  },
+  {
+    "question": "What is a process in operating systems?",
+    "answer": "A process is a program that is currently being executed. It has its own memory space, process ID and execution state."
+  },
+  {
+    "question": "What is computer networking?",
+    "answer": "Computer networking is the practice of connecting two or more computers or devices to share information, resources and services."
+  },
+  {
+    "question": "What is the OSI model?",
+    "answer": "The OSI model is a seven-layer networking reference model. Its layers are Physical, Data Link, Network, Transport, Session, Presentation and Application."
+  },
+  {
+    "question": "What is cybersecurity?",
+    "answer": "Cybersecurity is the practice of protecting computers, networks, applications and data from unauthorized access, cyberattacks and digital threats."
+  },
+  {
+    "question": "What is a computer virus?",
+    "answer": "A computer virus is a type of malicious software that attaches itself to files or programs and can spread when they are executed. It may damage files or affect system performance."
+  },
+  {
+    "question": "What is confidentiality integrity and availability?",
+    "answer": "Confidentiality, Integrity and Availability are the three main principles of information security, known as the CIA triad. Confidentiality protects information from unauthorized access, Integrity maintains data accuracy and Availability ensures authorized users can access information when needed."
+  },
+  {
+    "question": "What is probability?",
+    "answer": "Probability is the mathematical measure of the likelihood of an event occurring. Its value ranges from 0 to 1, where 0 means impossible and 1 means certain."
+  },
+  {
+    "question": "What is mean median and mode?",
+    "answer": "Mean is the average of all observations. Median is the middle value when observations are arranged in order. Mode is the value that occurs most frequently."
+  },
+  {
+    "question": "What is standard deviation?",
+    "answer": "Standard deviation is a statistical measure that describes how spread out data values are from their mean. A smaller standard deviation indicates values are closer to the mean."
+  },
+  {
+    "question": "How should I prepare for exams?",
+    "answer": "Prepare for exams by understanding the syllabus, creating a study timetable, learning concepts, practising previous question papers, revising important topics and taking short breaks. Focus on understanding rather than memorizing everything."
+  },
+  {
+    "question": "How do I prepare a 16 mark answer?",
+    "answer": "For a 16-mark answer, start with an introduction and definition. Explain the topic using clear headings, detailed points, examples and diagrams wherever appropriate. Finish with a short conclusion."
+  },
+  {
+    "question": "How do I prepare a 2 mark answer?",
+    "answer": "For a 2-mark answer, write a clear definition or two important points. Keep the answer short, accurate and relevant to the question."
+  },
+  {
+    "question": "How can I improve programming skills?",
+    "answer": "Improve programming skills by learning one language thoroughly, practising problems daily, understanding data structures and algorithms, building small projects and reviewing your mistakes."
+  },
+  {
+    "question": "How can I get an internship?",
+    "answer": "To get an internship, build practical projects, prepare a professional resume, maintain an active GitHub profile, improve technical and communication skills and apply through trusted internship platforms and company career pages."
+  },
+  {
+    "question": "How can I improve my GitHub profile?",
+    "answer": "Improve your GitHub profile by uploading useful projects, writing clear README files, adding screenshots, explaining technologies used and maintaining organized repositories."
+  },
+  {
+    "question": "What is a hackathon?",
+    "answer": "A hackathon is an event where individuals or teams work within a limited time to develop a solution, prototype or software project for a given problem statement."
+  },
+  {
+    "question": "How can I prepare for placements?",
+    "answer": "Prepare for placements by practising aptitude, programming, data structures, technical interview questions and communication skills. Build projects and understand every technology mentioned in your resume."
+  },
+  {
+    "question": "How can I improve English communication?",
+    "answer": "Improve English communication by speaking daily, reading aloud, learning useful vocabulary, listening to English conversations and practising short conversations without worrying too much about mistakes."
+  },
+  {
+    "question": "How can I manage my study time?",
+    "answer": "Manage study time by creating a realistic timetable, prioritizing difficult subjects, setting daily goals, using focused study sessions and revising topics regularly."
+  }
+]
